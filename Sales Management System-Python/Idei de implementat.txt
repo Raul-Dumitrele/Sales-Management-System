@@ -1,0 +1,13 @@
+1.Generare bon/raport text pentru fiecare comandă
+Creează fișiere .txt cu detalii despre comandă, pe model de bon fiscal.
+
+2.Alerte stoc scăzut automate
+Afișează alertă imediat ce un produs ajunge sub un anumit prag după plasarea unei comenzi.
+
+3.Export date în CSV/Excel
+Folosește csv sau pandas pentru a exporta produsele, comenzile etc.
+
+4.Statistici vânzări cu grafice
+Poți folosi matplotlib sau plotly pentru a face grafice gen top 5 produse, evoluție lunară etc.
+
+5.adaugare stoc la un produs
